@@ -1,6 +1,6 @@
 # CRUST
 
-Comprehensive Registration Utility for the Server of [Theseus](https://theseus.su/)
+Comprehensive Registration Utility for the Server of Dust
 
 ## Features
 
